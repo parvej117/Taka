@@ -1,0 +1,6 @@
+{
+  "name": "TakaTrack — Smart Expense & Income Tracker",
+  "description": "Smart, secure personal finance & expense manager with 3D visuals, category analytics, budgets, and real-time cloud sync.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
